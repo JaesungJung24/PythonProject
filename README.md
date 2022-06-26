@@ -1,1 +1,3 @@
-# PythonProject
+# Multiple Regression Analysis on Video Game Data to Find Key Factors in Determining Sales Worldwide
+
+Abstract: The history of video games dates back to the 1950s. Having great interest in a variety of games and consoles, I wanted to see how video games evolved to what we play these days. With video game sales data from Kaggle, I performed a series of data analysis to discover what kind of games tend to lead the market and which factors affect global sales and regional sales. Then, the results are explained with plots and graphs to visually demonstrate the relationship among variables in video game sales dataset.
